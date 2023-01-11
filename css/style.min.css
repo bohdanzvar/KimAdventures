@@ -334,7 +334,9 @@ h6 {
 }
 
 .no-webp .main__container{
-  background: url("../img/header-bg.jpg"); }
+  background: url("../img/header-bg.jpg");
+  background-repeat:no-repeat;
+}
 
 .main__container {
   max-width: 125rem;
